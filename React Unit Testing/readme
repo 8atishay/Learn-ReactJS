@@ -1,0 +1,11 @@
+to create a bundle run
+npx webpack
+
+to watch use 
+npx webpack -w
+
+edit test part of package.json
+
+installed karma and karma-cli globally
+then used karma init for creating karma.conf.js
+

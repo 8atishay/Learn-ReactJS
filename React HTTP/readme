@@ -1,0 +1,15 @@
+to create a bundle run
+npx webpack
+
+to watch use 
+npx webpack -w
+
+For methods in React, the this keyword should
+represent the component that owns the method.
+
+That is why you should use arrow functions. 
+With arrow functions, this will always 
+represent the object that defined the arrow function.
+
+API key of https://openweathermap.org/ is
+cd1d40d5a4ecbafef30a182dac3f686e

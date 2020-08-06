@@ -1,0 +1,7 @@
+to create a bundle run
+npx webpack
+
+to watch use 
+npx webpack -w
+
+printing messages in console

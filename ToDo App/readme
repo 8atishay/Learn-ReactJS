@@ -1,0 +1,11 @@
+module directories are defineed in webpack
+
+    "axios": "^0.19.2",
+    "expect": "^26.1.0",
+    "foundation-sites": "^6.6.3",
+    "node-sass": "^4.14.1",
+    "postcss-loader": "^3.0.0",
+    "react-router": "^5.2.0",
+    "react-router-dom": "^5.2.0",
+    "sass-loader": "^9.0.2",
+    "script-loader": "^0.7.2",
